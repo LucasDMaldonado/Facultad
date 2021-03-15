@@ -1,0 +1,17 @@
+D:\Oscar\UTN\ProgramacionII\ABMProductos\ABMProductos\obj\Debug\ResolveAssemblyReference.cache
+D:\Oscar\UTN\ProgramacionII\ABMProductos\ABMProductos\obj\Debug\ABMProductos.Properties.Resources.resources
+D:\Oscar\UTN\ProgramacionII\ABMProductos\ABMProductos\obj\Debug\ABMProductos.csproj.GenerateResource.Cache
+D:\Oscar\UTN\ProgramacionII\ABMProductos\ABMProductos\obj\Debug\ABMProductos.frmProducto.resources
+D:\Oscar\UTN\ProgramacionII\ABMProductos\ABMProductos\bin\Debug\ABMProductos.exe
+D:\Oscar\UTN\ProgramacionII\ABMProductos\ABMProductos\bin\Debug\ABMProductos.pdb
+D:\Oscar\UTN\ProgramacionII\ABMProductos\ABMProductos\obj\Debug\ABMProductos.exe
+D:\Oscar\UTN\ProgramacionII\ABMProductos\ABMProductos\obj\Debug\ABMProductos.pdb
+C:\Users\Usuario\Desktop\ABMProductos\ABMProductos\ABMProductos\bin\Debug\ABMProductos.exe.config
+C:\Users\Usuario\Desktop\ABMProductos\ABMProductos\ABMProductos\bin\Debug\ABMProductos.exe
+C:\Users\Usuario\Desktop\ABMProductos\ABMProductos\ABMProductos\bin\Debug\ABMProductos.pdb
+C:\Users\Usuario\Desktop\ABMProductos\ABMProductos\ABMProductos\obj\Debug\ABMProductos.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\ABMProductos\ABMProductos\ABMProductos\obj\Debug\ABMProductos.frmProducto.resources
+C:\Users\Usuario\Desktop\ABMProductos\ABMProductos\ABMProductos\obj\Debug\ABMProductos.Properties.Resources.resources
+C:\Users\Usuario\Desktop\ABMProductos\ABMProductos\ABMProductos\obj\Debug\ABMProductos.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\ABMProductos\ABMProductos\ABMProductos\obj\Debug\ABMProductos.exe
+C:\Users\Usuario\Desktop\ABMProductos\ABMProductos\ABMProductos\obj\Debug\ABMProductos.pdb

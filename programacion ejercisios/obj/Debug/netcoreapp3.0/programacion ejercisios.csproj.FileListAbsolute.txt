@@ -1,0 +1,10 @@
+C:\Users\Usuario\Desktop\programacion\programacion ejercisios\bin\Debug\netcoreapp3.0\programacion ejercisios.exe
+C:\Users\Usuario\Desktop\programacion\programacion ejercisios\bin\Debug\netcoreapp3.0\programacion ejercisios.deps.json
+C:\Users\Usuario\Desktop\programacion\programacion ejercisios\bin\Debug\netcoreapp3.0\programacion ejercisios.runtimeconfig.json
+C:\Users\Usuario\Desktop\programacion\programacion ejercisios\bin\Debug\netcoreapp3.0\programacion ejercisios.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\programacion\programacion ejercisios\bin\Debug\netcoreapp3.0\programacion ejercisios.dll
+C:\Users\Usuario\Desktop\programacion\programacion ejercisios\bin\Debug\netcoreapp3.0\programacion ejercisios.pdb
+C:\Users\Usuario\Desktop\programacion\programacion ejercisios\obj\Debug\netcoreapp3.0\programacion ejercisios.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\programacion\programacion ejercisios\obj\Debug\netcoreapp3.0\programacion ejercisios.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\programacion\programacion ejercisios\obj\Debug\netcoreapp3.0\programacion ejercisios.dll
+C:\Users\Usuario\Desktop\programacion\programacion ejercisios\obj\Debug\netcoreapp3.0\programacion ejercisios.pdb

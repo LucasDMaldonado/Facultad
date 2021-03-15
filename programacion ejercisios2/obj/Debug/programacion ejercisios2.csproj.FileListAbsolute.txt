@@ -1,0 +1,9 @@
+C:\Users\Usuario\Desktop\programacion\programacion ejercisios2\obj\Debug\programacion ejercisios2.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\programacion\programacion ejercisios2\obj\Debug\programacion_ejercisios2.Form1.resources
+C:\Users\Usuario\Desktop\programacion\programacion ejercisios2\obj\Debug\programacion_ejercisios2.Properties.Resources.resources
+C:\Users\Usuario\Desktop\programacion\programacion ejercisios2\obj\Debug\programacion ejercisios2.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\programacion\programacion ejercisios2\bin\Debug\programacion ejercisios2.exe.config
+C:\Users\Usuario\Desktop\programacion\programacion ejercisios2\bin\Debug\programacion ejercisios2.exe
+C:\Users\Usuario\Desktop\programacion\programacion ejercisios2\bin\Debug\programacion ejercisios2.pdb
+C:\Users\Usuario\Desktop\programacion\programacion ejercisios2\obj\Debug\programacion ejercisios2.exe
+C:\Users\Usuario\Desktop\programacion\programacion ejercisios2\obj\Debug\programacion ejercisios2.pdb
